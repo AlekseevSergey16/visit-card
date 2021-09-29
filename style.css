@@ -4,7 +4,7 @@
 body {
     /* font-family: 'Lato', sans-serif; */
     font-family: 'Raleway', sans-serif;
-    background: url(http://copybar.ru/wp-content/uploads/2014/07/blurred-background-images-photos-0322125813.jpg);
+    background: url("http://copybar.ru/wp-content/uploads/2014/07/blurred-background-images-photos-0322125813.jpg");
     padding: 150px 0;
 }
 
@@ -34,7 +34,7 @@ h3 {
     width: 80%;
     height: 100%;
     font-size: 50px;
-    background: url(https://dop.pskovedu.ru/file/download/dop/9A53DC5E638859B6F3E2264C1866A608)
+    background: url("https://dop.pskovedu.ru/file/download/dop/9A53DC5E638859B6F3E2264C1866A608")
                 no-repeat center center / cover;
     color: #fff;
     margin-right: 10px;
@@ -60,7 +60,7 @@ h3 {
     display: flex;
     width: 20%;
     height: 100%;
-    background: url(https://sun9-55.userapi.com/impf/c855136/v855136374/96d72/23LNAuQKXHw.jpg?size=1638x2048&quality=96&sign=74e3464a3097e201457ca471e6afe3c4&type=album)
+    background: url("https://sun9-55.userapi.com/impf/c855136/v855136374/96d72/23LNAuQKXHw.jpg?size=1638x2048&quality=96&sign=74e3464a3097e201457ca471e6afe3c4&type=album")
                 no-repeat center center / cover;
 }
 
